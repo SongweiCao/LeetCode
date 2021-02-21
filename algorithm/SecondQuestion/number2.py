@@ -125,3 +125,6 @@ l2 = ListNode_2._reverse(l2)
 result = Solution().addTowNumbers(l1, l2)
 result_node = ListNode_handle().print_ListNode(result)
 print(result_node)
+
+a = "a1234"
+print(isinstance(a, str))
